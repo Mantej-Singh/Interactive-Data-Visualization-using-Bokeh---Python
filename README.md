@@ -21,7 +21,11 @@ from bokeh.charts import Bar, output_file, show
 
 
 - - - -
+##Bokeh Inline Output1: [Bar Graph]
+[![screenshot_1488406982.png](https://s19.postimg.org/k60wk5po3/screenshot_1488406982.png)](https://postimg.org/image/npmu9ysdr/)
 
-##Bokeh Output1: [Bar Graph]
+- - - -
+
+##Bokeh Local Output2: [Bar.html]
 [![screenshot_1488337778.png](https://s19.postimg.org/jjy5itqgj/screenshot_1488337778.png)](https://postimg.org/image/qn60yfvvz/)
 
