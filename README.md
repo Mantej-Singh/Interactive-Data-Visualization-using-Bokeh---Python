@@ -16,7 +16,7 @@ This notebook shows creation of interactive graphs with [Bokeh Library](http://b
 
 ##Importing library for bar data
 ```
-from bokeh.charts import Bar, output_file, show
+from bokeh.charts import Bar, output_file, show, output_notebook
 ```
 
 
