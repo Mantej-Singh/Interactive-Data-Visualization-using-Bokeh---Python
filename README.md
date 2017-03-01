@@ -5,13 +5,20 @@ This notebook shows creation of interactive graphs with [Bokeh Library](http://b
 
 * Install `pip3 install bohek` to install the source Bokeh library.
 
-[![screenshot_1488338155.png](https://s19.postimg.org/hgnqb5qnn/screenshot_1488338155.png)](https://postimg.org/image/6ttx5qii7/)
+[![screenshot_1488338406.png](https://s19.postimg.org/ckk3jgqib/screenshot_1488338406.png)](https://postimg.org/image/a38cc76lr/)
+
+
+
+
 
 
 ##Importing library for bar data
 ```
 from bokeh.charts import Bar, output_file, show
 ```
+
+
+
 
 ##Bokeh Output1: [Bar Graph]
 [![screenshot_1488337778.png](https://s19.postimg.org/jjy5itqgj/screenshot_1488337778.png)](https://postimg.org/image/qn60yfvvz/)
