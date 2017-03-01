@@ -31,3 +31,10 @@ from bokeh.charts import Bar, output_file, show, output_notebook
 ##Bokeh Local Output2: [Bar.html]
 [![screenshot_1488337778.png](https://s19.postimg.org/jjy5itqgj/screenshot_1488337778.png)](https://postimg.org/image/qn60yfvvz/)
 
+
+- - - -
+
+##Bokeh Inline Output3: [Choropleth Map]
+[![screenshot_1488411915.png](https://s19.postimg.org/h0gaty71v/screenshot_1488411915.png)](https://postimg.org/image/j50nv18of/)
+
+
