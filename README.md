@@ -24,6 +24,8 @@ from bokeh.charts import Bar, output_file, show, output_notebook
 ##Bokeh Inline Output1: [Bar Graph]
 [![screenshot_1488406982.png](https://s19.postimg.org/k60wk5po3/screenshot_1488406982.png)](https://postimg.org/image/npmu9ysdr/)
 
+[![screenshot_1488406859.png](https://s19.postimg.org/urkrw5vzn/screenshot_1488406859.png)](https://postimg.org/image/u21zjsvfz/)
+
 - - - -
 
 ##Bokeh Local Output2: [Bar.html]
