@@ -1,14 +1,13 @@
 # Interactive-Data-Visualization-using-Bokeh---Python
 Using Bokeh python library for interactive visualization which uses **web browsers** for representation of graphs.
 
-[![screenshot_1488388948.png](https://postimg.cc/a61eqip0z/screenshot_1488388948.png)](https://postimg.cc/image/yzayr681b/)
+[![screenshot-1488388948.png](https://i.postimg.cc/8P64Htqv/screenshot-1488388948.png)](https://postimg.cc/3d32rCrr)
 
 This notebook shows creation of interactive graphs with [Bokeh Library](http://bokeh.pydata.org/en/latest/docs/installation.html)
 
 * Install `pip3 install bohek` to install the source Bokeh library.
 
-[![screenshot_1488338406.png](https://postimg.cc/ckk3jgqib/screenshot_1488338406.png)](https://postimg.cc/image/a38cc76lr/)
-
+[![screenshot-1488338406.png](https://i.postimg.cc/CLqgFKYy/screenshot-1488338406.png)](https://postimg.cc/6ytSctyz)
 
 - - - -
 
@@ -35,6 +34,5 @@ from bokeh.charts import Bar, output_file, show, output_notebook
 - - - -
 
 ##Bokeh Inline Output3: [Choropleth Map]
-[![screenshot_1488411915.png](https://postimg.cc/h0gaty71v/screenshot_1488411915.png)](https://postimg.cc/image/j50nv18of/)
-
+[![screenshot-1488411915.png](https://i.postimg.cc/jdf6Nc1F/screenshot-1488411915.png)](https://postimg.cc/LnHZFt2t)
 
